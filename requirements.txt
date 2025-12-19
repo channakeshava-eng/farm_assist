@@ -1,0 +1,6 @@
+streamlit
+requests
+pillow
+gtts
+numpy
+streamlit-camera-input
